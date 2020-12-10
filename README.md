@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on CuisineDeGeek and Triplan
+- 🔭 I’m currently working on <a href="https://cuisinedegeek.com">CuisineDeGeek</a> and Triplan
 - 🌱 I’m currently learning Server Architecture & Typescript
 - 🤔 I’m looking for help with Server Architecture
 - 💬 Ask me about anything !
