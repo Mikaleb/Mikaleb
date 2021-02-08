@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-- 💬 Ask me about anything !
 - 📫 How to reach me: mikaleb@live.fr
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 4 languages !
 
 <a href="https://dev.to/mikaleb">
