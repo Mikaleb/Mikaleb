@@ -2364,7 +2364,7 @@
                                             netdata/netdata
                                         </span>
                                         <span>
-                                            starred 1 hour ago
+                                            starred 2 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2538,7 +2538,7 @@
                                             nrwl/nx
                                         </span>
                                         <span>
-                                            starred 1 day ago
+                                            starred 2 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -2593,7 +2593,7 @@
                     These metrics include private contributions, timezone Europe/Paris
                 </span>
                 <span>
-                    Last updated Thu, 29 Apr 2021 08:12:50 GMT with lowlighter/metrics@3.7.0
+                    Last updated Thu, 29 Apr 2021 09:11:21 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
