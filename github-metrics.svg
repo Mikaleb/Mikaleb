@@ -1104,7 +1104,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        630 Commits
+                        631 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1245,14 +1245,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.58831730210682" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="218.58831730210682" y="0" width="111.86673984544322" height="8" fill="#2c3e50"/>
-                    <rect mask="url(#languages-bar)" x="330.45505714755006" y="0" width="105.02802293113048" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="435.48308007868053" y="0" width="13.850659209909582" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.33373928859015" y="0" width="7.336279179703305" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="456.67001846829345" y="0" width="1.8785739753302058" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.54859244362365" y="0" width="0.7562946433936791" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.30488708701733" y="0" width="0.6951129129826894" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.4215372150407" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="218.4215372150407" y="0" width="112.0262954369683" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="330.44783265200897" y="0" width="104.94788789452363" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="435.39572054653263" y="0" width="13.94615696239826" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.34187750893085" y="0" width="7.330681692630648" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="456.6725592015615" y="0" width="1.8771406474422718" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.5496998490038" y="0" width="0.755717600265164" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.30541744926893" y="0" width="0.6945825507310426" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2337,7 +2337,7 @@
                                             aniftyco/awesome-tailwindcss
                                         </span>
                                         <span>
-                                            starred 11 hours ago
+                                            starred 12 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2389,7 +2389,7 @@
                                             tailwindtoolbox/Landing-Page
                                         </span>
                                         <span>
-                                            starred 11 hours ago
+                                            starred 12 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2560,7 +2560,7 @@
                     These metrics include private contributions, timezone Europe/Paris
                 </span>
                 <span>
-                    Last updated Sat, 01 May 2021 22:12:51 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sat, 01 May 2021 23:12:37 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
