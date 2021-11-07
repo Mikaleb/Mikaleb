@@ -4,7 +4,7 @@ I'm a front-end developer working primarily with Javascript, in term of framewor
 
 
 ## 🔗 Links
-<div>
+
 [![blog](https://img.shields.io/badge/Blog-Mikaleb.com-%23f7f4e3)](https://mikaleb.com/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/mikalebeau/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/MikalebCom?style=social)
@@ -12,7 +12,7 @@ I'm a front-end developer working primarily with Javascript, in term of framewor
 <a href="https://dev.to/mikaleb">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mikaleb's DEV Profile" height="30" width="30">
 </a>
-</div>
+
 
 ## Other Common Github Profile Sections
 
