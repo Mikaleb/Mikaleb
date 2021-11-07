@@ -31,7 +31,4 @@ He/Him
 
 ⚡️ Fun fact...
 
-![Mikaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaleb&count_private=true&show_icons=true&theme=tokyonight)
-<br /><br />
-
 ![Metrics](https://metrics.lecoq.io/Mikaleb?template=classic&isocalendar=1&languages=1&tweets=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&tweets.attachments=false&tweets.limit=2&tweets.user=MikalebCom&config.timezone=Europe%2FParis)
