@@ -9,6 +9,10 @@ I'm a front-end developer working primarily with Javascript, in term of framewor
 [![linkedin](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/mikalebeau/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MikalebCom?style=social)](https://twitter.com/MikalebCom)
 
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mikalebeau" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/mikalebeau?trk=profile-badge">👨💻 Michaël Lebeau</a></div>
+              
+              
+
 <a href="https://dev.to/mikaleb">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mikaleb's DEV Profile" height="30" width="30">
 </a>
