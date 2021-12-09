@@ -8,7 +8,7 @@ I'm a front-end developer working primarily with Javascript, in term of framewor
 [![blog](https://img.shields.io/badge/Blog-Mikaleb.com-%23f7f4e3)](https://mikaleb.com/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/mikalebeau/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MikalebCom?style=social)](https://twitter.com/MikalebCom)
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mikalebeau" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/mikalebeau?trk=profile-badge">👨💻 Michaël Lebeau</a></div>
               
               
