@@ -9,7 +9,7 @@ I'm a front-end developer working primarily with Javascript, in term of framewor
 [![linkedin](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/mikalebeau/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MikalebCom?style=social)](https://twitter.com/MikalebCom)
 
-// LINKEDIN
+<!-- LINKEDIN -->
 
 <div class="profile-badge profile-badge--width-250 profile-badge--dark" dir="ltr">
       <div class="profile-badge__header profile-badge__header--dark">
@@ -54,10 +54,10 @@ I'm a front-end developer working primarily with Javascript, in term of framewor
       <a class="profile-badge__cta-btn profile-badge__cta-btn--dark" href="https://fr.linkedin.com/in/mikalebeau?trk=public-profile-badge-profile-badge-view-profile-cta" target="_blank" data-tracking-control-name="public-profile-badge-profile-badge-view-profile-cta" data-tracking-will-navigate="">
           Voir le profil
       </a>
-<!---->    </div>
+ </div>
 
 
-// END LINKEDIN
+<!-- END LINKEDIN -->
 
 
 
