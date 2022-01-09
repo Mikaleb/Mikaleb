@@ -1420,7 +1420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AppFlowy-IO/appflowy</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</div>
@@ -1473,7 +1473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattermost/focalboard</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.</div>
@@ -1523,7 +1523,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2022, 01:38:50 (timezone Europe/Paris) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 9 Jan 2022, 03:04:51 (timezone Europe/Paris) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
