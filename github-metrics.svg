@@ -1342,7 +1342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vuejs/repl</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vue SFC REPL as a Vue 3 component</div>
@@ -1539,7 +1539,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2022, 13:16:57 (timezone Europe/Paris) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 27 Jan 2022, 14:16:31 (timezone Europe/Paris) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
