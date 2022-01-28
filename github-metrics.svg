@@ -1316,7 +1316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SaraVieira/make-frontend-shit-again</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1364,7 +1364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>justinmetros/NuxtShop</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Shopify starter with Nuxt 3 + Pinia + Apollo + Tailwind 3 + Layer0</div>
@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>victorlmneves/vue3-vite-boilerplate</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vue 3 project using TypeScript and Pinia</div>
@@ -1508,7 +1508,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2022, 15:09:29 (timezone Europe/Paris) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 28 Jan 2022, 16:10:51 (timezone Europe/Paris) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
