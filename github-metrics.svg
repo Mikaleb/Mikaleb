@@ -1316,7 +1316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ether/etherpad-lite</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Etherpad: A modern really-real-time collaborative document editor.</div>
@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dolthub/dolt</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dolt – It's Git for Data</div>
@@ -1525,7 +1525,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2022, 09:11:56 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 1 Jul 2022, 10:15:04 (timezone Europe/Paris) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
