@@ -1343,7 +1343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>authelia/authelia</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Single Sign-On Multi-Factor portal for web apps</div>
@@ -1552,7 +1552,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2022, 03:07:24 (timezone Europe/Paris) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 6 Jul 2022, 05:44:30 (timezone Europe/Paris) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
