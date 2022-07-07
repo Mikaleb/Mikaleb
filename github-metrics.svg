@@ -1348,7 +1348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ToolJet/ToolJet</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀</div>
@@ -1557,7 +1557,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2022, 05:43:31 (timezone Europe/Paris) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 7 Jul 2022, 06:40:39 (timezone Europe/Paris) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
