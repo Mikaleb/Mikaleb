@@ -1431,7 +1431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>espanso/espanso</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform Text Expander written in Rust</div>
@@ -1528,7 +1528,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2022, 10:16:23 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 11:11:24 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
