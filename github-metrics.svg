@@ -1327,7 +1327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qdm12/gluetun</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.</div>
@@ -1518,7 +1518,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2022, 12:13:52 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 15 Aug 2022, 13:10:20 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
