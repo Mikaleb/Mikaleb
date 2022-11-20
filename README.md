@@ -5,6 +5,8 @@
 
 I'm a front-end developer working primarily with Javascript, in term of framework : VueJS / Nuxt.
 
+<a href="https://app.daily.dev/Mikmak"><img src="https://api.daily.dev/devcards/f37a13200b5c4db98d4f609027223d8c.png?r=qcp" width="400" alt="Michaël Lebeau's Dev Card"/></a>
+
 
 ## 🔗 Links
 
