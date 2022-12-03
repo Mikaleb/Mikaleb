@@ -1321,7 +1321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hackernoon/where-startups-trend</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">open source data for hackernoon's startup of the year by location contest: hundreds of thousands of votes for tens of thousands of startups in thousands of cities.</div>
@@ -1509,7 +1509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2022, 23:09:41 (timezone Europe/Paris) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 4 Dec 2022, 00:10:03 (timezone Europe/Paris) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
