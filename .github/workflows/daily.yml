@@ -2,7 +2,7 @@ name: Daily Commit
 
 on:
   schedule:
-    - cron: '0 9 * * 1-5'
+    - cron: "0 9 * * 1-5"
   workflow_dispatch:
 
 jobs:
@@ -15,14 +15,11 @@ jobs:
       - id: holidays
         uses: actions/http-request@v2
         with:
-          url: 'https://date.nager.at/api/v3/PublicHolidays/2023/FR'
+          url: "https://date.nager.at/api/v3/PublicHolidays/2023/FR"
           method: GET
       # Use the `if` condition to exclude public holidays
       - if: |
-          !(
-            github.event.scheduled_time.dayOfWeek == 'SATURDAY' || github.event.scheduled_time.dayOfWeek == 'SUNDAY' ||
-            (steps.holidays.data.find(x => x.date == github.event.scheduled_time.toISOString().substring(0, 10)) != null)
-          )
+          !(github.event.scheduled_time.dayOfWeek == 'SATURDAY' || github.event.scheduled_time.dayOfWeek == 'SUNDAY' || (steps.holidays.data.find(x => x.date == github.event.scheduled_time.toISOString().substring(0, 10)) != null))
         run: |
           date > date.txt
           git add date.txt
