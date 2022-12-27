@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a front-end developer working primarily with Javascript, in term of framework : VueJS / Nuxt.
+I'm a front-end developer working primarily with Javascript, and VueJS / Nuxt.
 
 
 ## 🔗 Links
@@ -19,16 +19,6 @@ I'm a front-end developer working primarily with Javascript, in term of framewor
 
 
 ## Other Common Github Profile Sections
-
-👩‍💻 I'm currently working on
-Datananas
-
-🧠 I'm currently learning 
-Myself
-
-📫 How to reach me...
-
-Mostly on linkedin or via twitter
 
 😄 Pronouns...
 He/Him
