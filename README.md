@@ -10,12 +10,7 @@ I'm a front-end developer working primarily with Javascript, and VueJS / Nuxt.
 
 [![blog](https://img.shields.io/badge/Blog-Mikaleb.com-%23f7f4e3)](https://mikaleb.com/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/mikalebeau/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MikalebCom?style=social)](https://twitter.com/MikalebCom)
-
-
-<a href="https://dev.to/mikaleb">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mikaleb's DEV Profile" height="30" width="30">
-</a>
+[![Devto](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/mikaleb)
 
 
 ## Other Common Github Profile Sections
