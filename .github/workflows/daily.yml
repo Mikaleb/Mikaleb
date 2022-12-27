@@ -1,0 +1,37 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '0 9 * * 1-5'
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out the repository
+      - uses: actions/checkout@v2
+      # Make a request to the API to get the list of public holidays
+      - id: holidays
+        uses: actions/http-request@v2
+        with:
+          url: 'https://date.nager.at/api/v3/PublicHolidays/2023/FR'
+          method: GET
+      # Use the `if` condition to exclude public holidays
+      - if: |
+          !(
+            # Exclude weekends
+            github.event.scheduled_time.dayOfWeek == 'SATURDAY' || github.event.scheduled_time.dayOfWeek == 'SUNDAY' ||
+            # Exclude public holidays
+            (steps.holidays.data.find(x => x.date == github.event.scheduled_time.toISOString().substring(0, 10)) != null)
+          )
+        run: |
+          # Update the file with the current date
+          date > date.txt
+          # Add the file to the staging area
+          git add date.txt
+          # Commit the file with the current date as the commit message
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git commit -m "Update for $(date +'%Y-%m-%d')"
+          # Push the commit to the repository
+          git push
