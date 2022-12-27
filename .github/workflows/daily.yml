@@ -20,19 +20,13 @@ jobs:
       # Use the `if` condition to exclude public holidays
       - if: |
           !(
-            # Exclude weekends
             github.event.scheduled_time.dayOfWeek == 'SATURDAY' || github.event.scheduled_time.dayOfWeek == 'SUNDAY' ||
-            # Exclude public holidays
             (steps.holidays.data.find(x => x.date == github.event.scheduled_time.toISOString().substring(0, 10)) != null)
           )
         run: |
-          # Update the file with the current date
           date > date.txt
-          # Add the file to the staging area
           git add date.txt
-          # Commit the file with the current date as the commit message
           git config --global user.email "you@example.com"
           git config --global user.name "Your Name"
           git commit -m "Update for $(date +'%Y-%m-%d')"
-          # Push the commit to the repository
           git push
