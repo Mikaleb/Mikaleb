@@ -18,12 +18,11 @@ jobs:
           url: "https://date.nager.at/api/v3/PublicHolidays/2023/FR"
           method: GET
       # Use the `if` condition to exclude public holidays
-      - if: |
-          !(github.event.scheduled_time.dayOfWeek == 'SATURDAY' || github.event.scheduled_time.dayOfWeek == 'SUNDAY' || (steps.holidays.data.find(x => x.date == github.event.scheduled_time.toISOString().substring(0, 10)) != null))
+      - if: ${{ !contains(steps.holidays.outputs.data, format('"{0}"', github.event.scheduled_at | date('yyyy-MM-dd'))) }}
         run: |
           date > date.txt
           git add date.txt
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "mikaleb@live.fr"
+          git config --global user.name "Mikaleb"
           git commit -m "Update for $(date +'%Y-%m-%d')"
           git push
