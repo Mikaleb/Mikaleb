@@ -13,12 +13,13 @@ jobs:
       - uses: actions/checkout@v2
       # Make a request to the API to get the list of public holidays
       - id: holidays
-        uses: actions/http-request@v2
+        uses: fjogeleit/http-request-action@v1
         with:
           url: "https://date.nager.at/api/v3/PublicHolidays/2023/FR"
           method: GET
-      # Use the `if` condition to exclude public holidays
-      - if: ${{ !contains(steps.holidays.outputs.data, format('"{0}"', github.event.scheduled_at | date('yyyy-MM-dd'))) }}
+      - name: Get response body
+        # Use the `if` condition to exclude public holidays, using the response body from the previous step
+        if: ${{ !contains(steps.holidays.outputs.body, format('{0:yyyy-MM-dd}', github.event.schedule)) }}
         run: |
           date > date.txt
           git add date.txt
