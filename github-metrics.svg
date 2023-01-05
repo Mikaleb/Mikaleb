@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1060" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1076" class="">
     <defs>
         <style/>
     </defs>
@@ -1451,7 +1451,7 @@
                                         <span>starred 17 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.</div>
+                                <div class="field description">InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1551,7 +1551,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2023, 05:13:08 (timezone Europe/Paris) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 5 Jan 2023, 06:10:07 (timezone Europe/Paris) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
