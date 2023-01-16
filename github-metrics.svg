@@ -1427,7 +1427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>novuhq/novu</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀</div>
@@ -1480,7 +1480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nektos/act</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run your GitHub Actions locally 🚀</div>
@@ -1530,7 +1530,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2023, 13:19:25 (timezone Europe/Paris) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 16 Jan 2023, 14:19:38 (timezone Europe/Paris) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
