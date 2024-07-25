@@ -1,7 +1,4 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-
-
-## 🚀 About Me
+# 🚀 About Me
 
 I'm a front-end developer working primarily with Javascript, and VueJS / Nuxt.
 
