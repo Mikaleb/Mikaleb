@@ -1341,7 +1341,7 @@
                                         <span>starred 2 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Generate conventional git commit messages with AI in 1 second 🤯🔫</div>
+                                <div class="field description">just a GPT wrapper for git — generate commit messages with AI in 1 sec 🤯🔫</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1547,7 +1547,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2024, 17:03:32 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2024, 18:03:03 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
