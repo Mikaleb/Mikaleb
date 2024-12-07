@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            669 Commits
+                            670 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.42601797123564" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="164.42601797123564" y="0" width="98.03653190952063" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="262.4625498807563" y="0" width="83.27012844087567" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="345.73267832163197" y="0" width="79.00394586088414" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="424.7366241825161" y="0" width="28.44796339456138" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.1845875770775" y="0" width="4.079876712188413" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.2644642892659" y="0" width="1.4430387528500062" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.7075030421159" y="0" width="1.2924969578840977" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.40213854245508" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="164.40213854245508" y="0" width="98.02229416046782" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="262.4244327029229" y="0" width="83.3248405493875" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="345.7492732523104" y="0" width="78.99247219557347" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="424.74174544788383" y="0" width="28.443831924832836" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.1855773727167" y="0" width="4.0792841957084525" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.2648615684251" y="0" width="1.4428291817520043" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.7076907501771" y="0" width="1.2923092498228326" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -324,7 +324,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.56
+                            Average per day at ~0.57
                         </div>
                     </section>
                 </div>
@@ -1295,10 +1295,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5 0,2.5 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5 1.7,3.5 z"/>
                             </g>
-                            <g transform="translate(-8.5, 7.25)">
+                            <g transform="translate(-8.5, 6.5)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.75 0,4.75 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.75 1.7,5.75 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.5 0,5.5 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.5 1.7,6.5 z"/>
                             </g>
                         </g>
                     </g>
@@ -1321,7 +1321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>posquit0/Awesome-CV</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1377,7 +1377,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abhisheknaiidu/awesome-github-profile-readme</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😎 A curated list of awesome GitHub Profile which updates in real time</div>
@@ -1424,7 +1424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kuchin/awesome-cto</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups</div>
@@ -1471,7 +1471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>veggiemonk/awesome-docker</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1518,7 +1518,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2024, 12:02:50 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2024, 13:04:19 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
