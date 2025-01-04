@@ -1368,7 +1368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fishttp/awesome-bluesky</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of all known tools available for the Bluesky platform</div>
@@ -1515,7 +1515,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2025, 20:02:40 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2025, 21:02:58 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
