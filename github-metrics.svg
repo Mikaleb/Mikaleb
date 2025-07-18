@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            873 Commits
+                            875 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.87304671249542" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="127.87304671249542" y="0" width="122.69728512994183" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="250.57033184243727" y="0" width="117.91190895414651" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="368.4822407965838" y="0" width="58.9539891027414" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="427.4362298993252" y="0" width="22.82440931956222" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.26063921888743" y="0" width="5.351610864877142" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="455.61225008376454" y="0" width="3.347549690914529" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.9597997746791" y="0" width="1.0402002253209475" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.8733137893213" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="127.8733137893213" y="0" width="122.68602899942843" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="250.5593427887497" y="0" width="117.93129375873262" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="368.4906365474824" y="0" width="58.948580720682074" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="427.43921726816444" y="0" width="22.82231543028081" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.26153269844525" y="0" width="5.351119913261642" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="455.6126526117069" y="0" width="3.347242589936857" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.95989520164375" y="0" width="1.0401047983562524" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1310,7 +1310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>modbender/nuxt-disqus</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Disqus Comments plugin for Nuxt 3</div>
@@ -1507,7 +1507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2025, 23:03:28 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jul 2025, 00:03:28 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
