@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            924 Commits
+                            925 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="124.50702935734314" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="124.50702935734314" y="0" width="124.30696450031475" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="248.8139938576579" y="0" width="115.64762710175982" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="364.4616209594177" y="0" width="55.56674657222127" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="420.028367531639" y="0" width="21.580485240787016" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="441.608852772426" y="0" width="10.262196194630432" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="451.8710489670564" y="0" width="5.1143285284025035" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="456.9853774954589" y="0" width="3.0146225045410517" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="124.50671268536664" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="124.50671268536664" y="0" width="124.30781830413292" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="248.8145309894996" y="0" width="115.64733296284379" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="364.4618639523434" y="0" width="55.566605243401874" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="420.02846919574523" y="0" width="21.580430352842534" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="441.6088995485878" y="0" width="10.262170093694854" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="451.87106964228263" y="0" width="5.114315520586543" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="456.9853851628692" y="0" width="3.0146148371308508" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1316,7 +1316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sissbruecker/linkding</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.</div>
@@ -1384,7 +1384,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        4.97k
+                                        4.98k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1416,7 +1416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/spec-kit</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💫 Toolkit to help you get started with Spec-Driven Development</div>
@@ -1519,7 +1519,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2025, 14:11:49 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2025, 15:03:34 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
