@@ -35,6 +35,6 @@
 <a href="https://github.com/Mikaleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mikaleb" height="30" width="40" /></a>
 <a href="https://dev.to/mikaleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mikaleb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mikalebeau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikalebeau" height="30" width="40" /></a>
-<a href="https://instagram.com/mikalebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikalebdev" height="30" width="40" /></a>
+<a href="https://instagram.com/mikalebcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikalebcom" height="30" width="40" /></a>
 </p>
 
